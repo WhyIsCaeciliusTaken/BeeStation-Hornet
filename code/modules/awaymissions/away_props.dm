@@ -108,6 +108,11 @@
 	map = '_maps/RandomZLevels/undergroundoutpost45.dmm'
 	mapcode = "UNDERGROUND_OUTPOST"
 
+obj/item/awaymaploader/wildwest
+	name = "away mission data disk: Wild West (Medium)"
+	map = '_maps/RandomZLevels/wildwest.dmm'
+	mapcode = "WILD_WEST"
+
 // Decon disks
 
 /obj/item/reverseengineeringdata
@@ -123,7 +128,7 @@
 	name = "advanced gateway technology disk"
 
 /obj/item/reverseengineeringdata/epic // Currently does nothing
-	name = "expert gateway technology disk"
+	name = "rare gateway technology disk"
 
 
 
